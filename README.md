@@ -6,15 +6,6 @@ Application Python permettant de gérer une base de données de vêtements : con
 
 
 
-##  Fonctionnalités
-
--  Base de données de vêtements 
--  Ajouter un nouveau vêtement
--  Afficher tous les vêtements ou rechercher
--  Modifier un vêtement existant
--  Supprimer un vêtement
--  Essai d'interface graphique avec Tkinter
-
 ---
 
 ## Technologies utilisées
