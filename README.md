@@ -17,7 +17,7 @@ Application Python permettant de gérer une base de données de vêtements : con
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Outil | Utilité |
 |---|---|
