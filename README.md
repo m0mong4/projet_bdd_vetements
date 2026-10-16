@@ -25,18 +25,9 @@ Application Python permettant de gérer une base de données de vêtements : con
 | SQLite3 | Base de données (incluse avec Python) |
 | Tkinter | Interface graphique (incluse avec Python) |
 
-Aucune dépendance externe n'est nécessaire.
 
 ---
 
-
-
-
-
-**Version Tkinter (essai) :**
-```bash
-python interface_tk.py
-```
 
 ---
 
