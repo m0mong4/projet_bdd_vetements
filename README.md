@@ -53,6 +53,5 @@ Un premier essai d'interface graphique avec **Tkinter** a été ajouté au proje
 ---
 
 
-##  Licence
 
 Projet éducatif — libre d'utilisation.
