@@ -22,7 +22,7 @@ Application Python permettant de gérer une base de données de vêtements : con
 | Outil | Utilité |
 |---|---|
 | Python 3.8+ | Langage principal |
-| SQLite3 | Base de données (incluse avec Python) |
+| SQLite3 | Base de données |
 | Tkinter | Interface graphique (incluse avec Python) |
 
 
