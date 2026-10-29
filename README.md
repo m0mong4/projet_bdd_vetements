@@ -16,12 +16,13 @@ A Python application for managing a clothing database: view, add, edit, and dele
 
 ## Project Structure
 
+```
 projet_bdd_vetements/
 │
 ├── programme_entier.py
 ├── db_vetements.py
 └── README.md
-
+```
 
 ---
 
