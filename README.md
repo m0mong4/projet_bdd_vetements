@@ -1,48 +1,36 @@
-# Gestionnaire de Vêtements
+# Clothing Manager
 
-Application Python permettant de gérer une base de données de vêtements : consulter, ajouter, modifier et supprimer des articles. Une interface graphique **Tkinter** est également en cours d'essai.
-
----
-
-
+A Python application for managing a clothing database: view, add, edit, and delete items. A **Tkinter** graphical interface is also being tested.
 
 ---
 
-## Technologies utilisées
+## Technologies Used
 
-| Outil | Utilité |
+| Tool | Purpose |
 |---|---|
-| Python 3.8+ | Langage principal |
-| SQLite3 | Base de données |
-| Tkinter | Interface graphique (incluse avec Python) |
-
-
----
-
+| Python 3.8+ | Main language |
+| SQLite3 | Database |
+| Tkinter | Graphical interface (included with Python) |
 
 ---
 
+## Project Structure
 
-##  Structure du projet
-
-```
 projet_bdd_vetements/
 │
-├── programme_entier.py    
+├── programme_entier.py
 ├── db_vetements.py
 └── README.md
-```
-
----
-
-## Interface Tkinter (expérimental)
-
-Un premier essai d'interface graphique avec **Tkinter** a été ajouté au projet, a la fin et commenté.
-
 
 
 ---
 
+## Tkinter Interface (Experimental)
 
+A first attempt at a graphical interface using **Tkinter** has been added to the project. It is located at the end of the file and is currently commented out.
 
-Projet éducatif — libre d'utilisation.
+---
+
+## License
+
+Educational project, free to use.
